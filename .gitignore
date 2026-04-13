@@ -1,0 +1,33 @@
+# Python / Jupyter
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+**/.ipynb_checkpoints/
+.venv/
+env/
+venv/
+ENV/
+.env
+
+# Dataset
+data/
+
+# Dossiers à ignorer
+Cours_ALYRA/
+Notebook_output/
+notebook_outputs/
+
+# Notebooks à ignorer
+Peau_data v2.ipynb
+
+# Docker
+Dockerfile
+api_ham10000/Dockerfile
+docker_api.txt
+
+# API à ignorer
+api_ham10000/app.py
+
+# Modèles
+*.h5
+#*.keras
