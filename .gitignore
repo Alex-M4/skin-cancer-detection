@@ -29,5 +29,6 @@ docker_api.txt
 api_ham10000/app.py
 
 # Modèles
+MEP_HAM10000.keras
 *.h5
-#*.keras
+*.keras
