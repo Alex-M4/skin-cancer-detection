@@ -1,1 +1,2 @@
 *.keras filter=lfs diff=lfs merge=lfs -text
+api_ham10000/*.keras filter=lfs diff=lfs merge=lfs -text
